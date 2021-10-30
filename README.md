@@ -1,4 +1,7 @@
 # <p align="center">Vote-System</p>
+<br>
+<p align="center"><img src="https://github.com/Mitsuya-Bot/System-Vote/blob/main/pict.JPG"</p>
+<p align="center">Any questions? DM me on <a href="https://discord.com/users/447411230098063362">Discord</a>.</p>
 <p align="center">A voting system to handle your bot vote's from top.gg with MONGO DB.</p>
 
 ### How to Use?
@@ -32,5 +35,3 @@ Let'say the webhook you copied is: https://discord.com/api/webhooks/827092347325
 <br>
 <p align="center">Make sure the <i>dbl_secret</i> Is the same authorization in top.gg or It will not work.</p>
 <p align="center">Make sure the Webhook URL on top.gg is the website-name/dblwebhook or It will not work.</p>
-<br>
-<p align="center">Any questions? DM me on <a href="https://discord.com/users/447411230098063362">Discord</a>.</p>
